@@ -1,11 +1,4 @@
-// import axios from "axios";
 
-// const API = "http://localhost:8080/api/todos";
-
-// export const getTodos = () => axios.get(API);
-// export const addTodo = (todo) => axios.post(API, todo);
-// export const deleteTodo = (id) => axios.delete(`${API}/${id}`);
-// export const updateTodo = (id, todo) => axios.put(`${API}/${id}`, todo);
 import axios from "axios";
 
 const API = "http://localhost:8080/api/todos";
